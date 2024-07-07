@@ -13,7 +13,7 @@ struct NewWorldView: View {
             Spacer()
             HStack {
                 Spacer()
-                Text("Hello!, Once Again")
+                Text("Hello!, Once Again Long Island")
                 Spacer()
             }
             Spacer()
